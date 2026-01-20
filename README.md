@@ -1,1 +1,1 @@
-# network_k8s
+# Сетевое взаимодействие в Kubernetes
